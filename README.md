@@ -1,2 +1,2 @@
 # mqtt-simulation
- mqtt network simulation using platform io and wokwi
+ virtual mqtt network using platform io and wokwi (a pair of python scripts and a virtual esp32 device)
